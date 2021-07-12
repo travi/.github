@@ -1,0 +1,7 @@
+{
+  "packageRules": [
+    {
+      "excludePackageNames": ["react", "style-loader", "html-webpack-plugin"]
+    }
+  ]
+}
