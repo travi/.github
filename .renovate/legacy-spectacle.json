@@ -1,7 +1,3 @@
 {
-  "packageRules": [
-    {
-      "excludePackageNames": ["react", "style-loader", "html-webpack-plugin"]
-    }
-  ]
+  "ignoreDeps": ["spectacle", "react", "style-loader", "html-webpack-plugin"]
 }
