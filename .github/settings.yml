@@ -14,9 +14,6 @@ branches:
       required_status_checks: null
       restrictions: null
       enforce_admins: true
-collaborators:
-  - username: travi-bot
-    permission: push
 labels:
   - name: bug
     color: ee0701
