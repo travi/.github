@@ -15,7 +15,7 @@
     "prepare": "husky install"
   },
   "devDependencies": {
-    "ban-sensitive-files": "1.9.18",
+    "ban-sensitive-files": "1.9.19",
     "commitlint-config-travi": "1.4.27",
     "cz-conventional-changelog": "3.3.0",
     "husky": "8.0.3",
